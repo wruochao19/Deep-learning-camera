@@ -1,12 +1,12 @@
 # Introduce  
 This project use a raspberry pi3 with a camera and a computer to accomplish a deep learning camera.
   
-In this project we use raspberry pi3 as a personal computer and use it interface with a server(my computer).<br><br>
+In this project we use raspberry pi3 as a personal computer and use it interface with a server(my computer).<br>
 
 When tagert shows in the camera of raspberry pi3, the server will detect it use YOLO and take a picture use rasbperry pi.
 
 
-# How to use<br><br>
+# How to use
 You'll need a few different libraries installed on the Raspberry Pi. Most notably, OpenCV 3 with Python bindings, along with Flask.
 
 The Raspberry Pi runs the Camera-Server code, and sends back images from a webserver.
